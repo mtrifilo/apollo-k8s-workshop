@@ -11,7 +11,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/example/repo
+    repoURL: https://github.com/mtrifilo/apollo-k8s-workshop
     path: apps
     targetRevision: main
   destination:

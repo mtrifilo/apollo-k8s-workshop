@@ -7,7 +7,7 @@ spec:
   project: default
   source:
     path: retail-supergraph
-    repoURL: https://github.com/example/repo
+    repoURL: https://github.com/mtrifilo/apollo-k8s-workshop
   destination:
     server: "https://kubernetes.default.svc"
     namespace: apollo-operator
